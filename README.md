@@ -10,7 +10,6 @@ A directory of Blinko sites worldwide. This repository serves as a centralized r
 sites:
   - title: "Site Name"
     url: "https://example.blinko.space"
-    description: "Site Description"
     image: "https://example.blinko.space/api/file/Square310x310Logo_1736658229667.png"
     tags: 
       - english

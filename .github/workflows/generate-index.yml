@@ -43,13 +43,18 @@ jobs:
                   response = requests.get(urljoin(url, "/api/v1/public/site-info"), timeout=5)
                   if response.ok:
                       data = response.json()
+                      result = {"image": None, "site_description": None}
                       if "image" in data:
                           if data["image"] and data["image"].startswith("/"):
-                              return urljoin(url, data["image"])
-                          return data["image"]
+                              result["image"] = urljoin(url, data["image"])
+                          else:
+                              result["image"] = data["image"]
+                      if "description" in data:
+                          result["site_description"] = data["description"]
+                      return result
               except:
                   pass
-              return None
+              return {"image": None, "site_description": None}
 
           def check_version(url):
               try:
@@ -67,7 +72,9 @@ jobs:
                       site = yaml.safe_load(f)
                       version = check_version(site["url"])
                       if version:
-                          site["image"] = get_site_info(site["url"])
+                          info = get_site_info(site["url"])
+                          site["image"] = info["image"]
+                          site["site_description"] = info["site_description"]
                           site["version"] = version
                           sites.append(site)
           
