@@ -5,13 +5,5 @@ sites:
     tags: 
       - demo
       - official
+      - english
     created_at: "2024-01-14"
-    category: "Official"
-    
-  - title: "Blinko Community"
-    url: "https://community.blinko.space"
-    description: "Blinko community instance"
-    tags:
-      - community
-    created_at: "2024-01-14"
-    category: "Community" 
