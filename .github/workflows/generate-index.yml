@@ -1,0 +1,50 @@
+name: Generate Index
+
+on:
+  push:
+    paths:
+      - 'sites/**'
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+          
+      - name: Generate index.json
+        run: |
+          python -c '
+          import os
+          import json
+          import yaml
+          
+          sites = []
+          for filename in os.listdir("sites"):
+              if filename.endswith(".yml"):
+                  with open(os.path.join("sites", filename), "r", encoding="utf-8") as f:
+                      site = yaml.safe_load(f)
+                      sites.append(site)
+          
+          with open("index.json", "w", encoding="utf-8") as f:
+              json.dump({"sites": sites}, f, ensure_ascii=False, indent=2)
+          '
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add index.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update index.json" && git push) 
