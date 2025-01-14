@@ -1,4 +1,5 @@
 # Blinko Hub
+![image](https://github.com/user-attachments/assets/e41f4fdf-8c44-4a2e-a826-cccac980882e)
 
 A directory of Blinko sites worldwide. This repository serves as a centralized registry for all Blinko instances.
 
