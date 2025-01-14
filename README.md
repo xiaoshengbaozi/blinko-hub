@@ -11,6 +11,7 @@ sites:
   - title: "Site Name"
     url: "https://example.blinko.space"
     description: "Site Description"
+    image: "https://example.blinko.space/api/file/Square310x310Logo_1736658229667.png"
     tags: 
       - english
       - blog
@@ -20,5 +21,6 @@ sites:
 ## Add Your Site
 
 1. Fork this repository
+2. Get your site logo from 'https://your-site-url/api/v1/public/site-info'
 2. Add your site information to `site.yml`
 3. Create a pull request

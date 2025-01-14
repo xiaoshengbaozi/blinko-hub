@@ -2,6 +2,7 @@ sites:
   - title: "Blinko Demo"
     url: "https://blinko.up.railway.app"
     description: "Official Blinko demo site"
+    image: "https://blinko.up.railway.app/api/file/Square310x310Logo_1736850064147.png"
     tags: 
       - demo
       - official
