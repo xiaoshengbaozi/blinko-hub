@@ -35,7 +35,7 @@
       "created_at": "2024-01-14",
       "image": "https://l.llingfei.com/api/s3file/blinko/lingfei_1736914076972.png",
       "site_description": "",
-      "version": "0.37.14"
+      "version": "0.37.16"
     },
     {
       "title": "jonnyan404 の blinko",
@@ -48,19 +48,6 @@
       "image": "https://blink.mrdoc.fun/api/file/1000018773_1736606684084.jpg",
       "site_description": "",
       "version": "0.37.13"
-    },
-    {
-      "title": "Leslie's Knowledge Space",
-      "url": "https://notes.yhz610.com",
-      "tags": [
-        "chinese",
-        "notes",
-        "knowledge"
-      ],
-      "created_at": "2024-01-15",
-      "image": "https://notes.yhz610.com/api/s3file/leslie2_1736641911885.jpg",
-      "site_description": "",
-      "version": "0.37.7"
     }
   ]
 }
