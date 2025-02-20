@@ -1,6 +1,18 @@
 {
   "sites": [
     {
+      "title": "Pipu's BBHub",
+      "url": "https://blinko.pipu.studio",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-02-15",
+      "image": "https://blinko.pipu.studio/api/file/网站图标_1736479899720.webp",
+      "site_description": "",
+      "version": "0.38.6"
+    },
+    {
       "title": "jonnyan404 の blinko",
       "url": "https://blink.mrdoc.fun",
       "tags": [
