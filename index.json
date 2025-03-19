@@ -109,20 +109,6 @@
       "image": "",
       "site_description": "",
       "version": "0.40.4"
-    },
-    {
-      "title": "Ivan's Mindspark Archive",
-      "url": "https://blinko.ivanli.cc",
-      "tags": [
-        "chinese",
-        "blog",
-        "development",
-        "hardware"
-      ],
-      "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
-      "version": "0.45.1"
     }
   ]
 }
