@@ -85,18 +85,6 @@
       "image": "https://blinko.pipu.studio/api/file/网站图标_1736479899720.webp",
       "site_description": "",
       "version": "0.47.2"
-    },
-    {
-      "title": "Myrrhwhis's BBHub",
-      "url": "https://blinko.l0u0l.com",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2024-01-14",
-      "image": "",
-      "site_description": "",
-      "version": "0.40.4"
     }
   ]
 }
