@@ -69,8 +69,8 @@
         "note"
       ],
       "created_at": "2025-03-11",
-      "image": "https://blinko.nyamuchi.com/api/s3file/48fad07e8a3e0c2eb7f8c522d12c4dcbc4ff7b72_full_1741835644806.jpg",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "0.45.2"
     },
     {
@@ -81,9 +81,23 @@
         "blog"
       ],
       "created_at": "2024-01-14",
-      "image": null,
-      "site_description": null,
+      "image": "",
+      "site_description": "",
       "version": "0.40.4"
+    },
+    {
+      "title": "Ivan's Mindspark Archive",
+      "url": "https://blinko.ivanli.cc",
+      "tags": [
+        "chinese",
+        "blog",
+        "development",
+        "hardware"
+      ],
+      "created_at": "2025-01-30",
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
+      "version": "0.50.0"
     }
   ]
 }
