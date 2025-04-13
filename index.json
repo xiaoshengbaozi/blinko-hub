@@ -84,18 +84,6 @@
       "image": "https://blinko.acacia-ma.com/api/file/touxiang_1744287492522.jpg",
       "site_description": "",
       "version": "0.50.0"
-    },
-    {
-      "title": "Myrrhwhis's BBHub",
-      "url": "https://blinko.l0u0l.com",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2024-01-14",
-      "image": "",
-      "site_description": "",
-      "version": "0.40.4"
     }
   ]
 }
