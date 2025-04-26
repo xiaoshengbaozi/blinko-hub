@@ -38,6 +38,18 @@
       "version": "0.49.4"
     },
     {
+      "title": "王基权",
+      "url": "http://www.fibnci.top:51111/share",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-04-23",
+      "image": null,
+      "site_description": null,
+      "version": "0.52.4"
+    },
+    {
       "title": "Ivan's Mindspark Archive",
       "url": "https://blinko.ivanli.cc",
       "tags": [
@@ -74,18 +86,6 @@
       "image": "https://blink.mrdoc.fun/api/file/1000018773_1736606684084.jpg",
       "site_description": "",
       "version": "1.0.0-alpha.2"
-    },
-    {
-      "title": "nyamu blinko",
-      "url": "https://blinko.nyamuchi.com",
-      "tags": [
-        "chinese",
-        "note"
-      ],
-      "created_at": "2025-03-11",
-      "image": "https://blinko.nyamuchi.com/api/s3file/48fad07e8a3e0c2eb7f8c522d12c4dcbc4ff7b72_full_1741835644806.jpg",
-      "site_description": "",
-      "version": "0.45.2"
     },
     {
       "title": "Acacia_Ma's Knowledge Space",
