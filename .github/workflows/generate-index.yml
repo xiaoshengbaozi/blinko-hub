@@ -58,7 +58,7 @@ jobs:
 
           def check_version(url):
               try:
-                  response = requests.get(urljoin(url, "/api/v1/public/version"), timeout=5)
+                  response = requests.get(urljoin(url, "/api/v1/public/server-version"), timeout=5)
                   if response.ok:
                       return response.json()
                   return None
