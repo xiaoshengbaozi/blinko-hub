@@ -37,16 +37,17 @@
       "version": "1.1.1"
     },
     {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
+      "title": "优秀才能变酷",
+      "url": "https://seed.love4yzp.me",
       "tags": [
-        "Chinese",
-        "note"
+        "chinese",
+        "blog",
+        "journal"
       ],
-      "created_at": "2025-05-23",
-      "image": "",
+      "created_at": "2025-07-12",
+      "image": "https://seed.love4yzp.me/api/file/e92ddfa78d5df0518f55a9052c4ac000_1752293935449.png",
       "site_description": "",
-      "version": "1.2.0"
+      "version": "1.1.1"
     },
     {
       "title": "Ivan's Mindspark Archive",
@@ -75,18 +76,6 @@
       "version": "1.1.0"
     },
     {
-      "title": "量元工作室 笔记",
-      "url": "https://note.quanmeta.org",
-      "tags": [
-        "Chinese",
-        "note"
-      ],
-      "created_at": "2025-05-23",
-      "image": "",
-      "site_description": "",
-      "version": "1.2.0"
-    },
-    {
       "title": "Myrrhwhis's BBHub",
       "url": "https://blinko.l0u0l.com",
       "tags": [
@@ -112,6 +101,18 @@
       "version": "1.0.7"
     },
     {
+      "title": "minds",
+      "url": "https://n.lklk.in",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-07-10",
+      "image": "https://n.lklk.in/api/file/45e8455e4acc771606c1c174a3b1df89_1752463257781.png",
+      "site_description": "",
+      "version": "1.1.1"
+    },
+    {
       "title": "Bryce's Knowledge Space",
       "url": "https://blinko.brycewg.xyz",
       "tags": [
@@ -123,6 +124,18 @@
       "image": "https://blinko.brycewg.xyz/api/s3file/1740532260669(1)_1740761471332.jpg",
       "site_description": "",
       "version": "1.2.1"
+    },
+    {
+      "title": "zller blinko",
+      "url": "https://blinko.zller.cc",
+      "tags": [
+        "chinese",
+        "note"
+      ],
+      "created_at": "2024-10-24",
+      "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
+      "site_description": "",
+      "version": "1.1.1"
     },
     {
       "title": "Kay's Note",
