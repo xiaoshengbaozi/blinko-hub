@@ -62,6 +62,32 @@
       "version": "1.2.1"
     },
     {
+      "title": "Ivan's Mindspark Archive",
+      "url": "https://blinko.ivanli.cc",
+      "tags": [
+        "chinese",
+        "blog",
+        "development",
+        "hardware"
+      ],
+      "created_at": "2025-01-30",
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
+      "version": "1.2.1"
+    },
+    {
+      "title": "王基权",
+      "url": "http://www.fibnci.top:51111/share",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-04-23",
+      "image": "http://www.fibnci.top:51111/api/file/vol1/1000/docker/blinko/data/萨摩耶犬_1745379611420.png",
+      "site_description": "",
+      "version": "1.1.0"
+    },
+    {
       "title": "量元工作室 笔记",
       "url": "https://note.quanmeta.org",
       "tags": [
