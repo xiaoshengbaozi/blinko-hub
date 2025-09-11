@@ -20,8 +20,8 @@
         "blog"
       ],
       "created_at": "2025-06-22",
-      "image": "",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.1.0"
     },
     {
@@ -143,6 +143,30 @@
       "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
       "site_description": "",
       "version": "1.1.1"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.3.1"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.3.1"
     },
     {
       "title": "Leslie's Knowledge Space",
