@@ -82,7 +82,7 @@
       "created_at": "2025-09-01",
       "image": "https://blinko.fangdutex.cn/api/file/root/blinko/blinko-data/IMG_9398_1757812854274.JPG",
       "site_description": "",
-      "version": "1.4.1"
+      "version": "1.4.3"
     },
     {
       "title": "Kay's Note",
@@ -119,6 +119,30 @@
       "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
       "site_description": "",
       "version": "1.1.1"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.4.3"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.4.3"
     },
     {
       "title": "Leslie's Knowledge Space",
