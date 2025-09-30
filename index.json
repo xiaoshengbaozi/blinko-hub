@@ -10,7 +10,7 @@
       "created_at": "2025-05-23",
       "image": "",
       "site_description": "",
-      "version": "1.6.2"
+      "version": "1.6.3"
     },
     {
       "title": "Kay's Note",
@@ -58,6 +58,18 @@
         "blog"
       ],
       "created_at": "2024-01-14",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.2"
+    },
+    {
+      "title": "RainbowRain",
+      "url": "https://blinko.icerain.love",
+      "tags": [
+        "Chinese",
+        "blog"
+      ],
+      "created_at": "2025-06-22",
       "image": "",
       "site_description": "",
       "version": "1.6.2"
@@ -124,6 +136,18 @@
       "version": "1.6.2"
     },
     {
+      "title": "RainbowRain",
+      "url": "https://blinko.icerain.love",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-09-25",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.2"
+    },
+    {
       "title": "happymove",
       "url": "https://blinko.happymove.top/share",
       "tags": [
@@ -170,7 +194,7 @@
       "created_at": "2025-05-23",
       "image": "",
       "site_description": "",
-      "version": "1.6.2"
+      "version": "1.6.3"
     },
     {
       "title": "jonnyan404 の blinko",
