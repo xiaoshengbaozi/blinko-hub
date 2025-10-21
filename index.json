@@ -50,6 +50,20 @@
       "version": "1.1.1"
     },
     {
+      "title": "Ivan's Mindspark Archive",
+      "url": "https://blinko.ivanli.cc",
+      "tags": [
+        "chinese",
+        "blog",
+        "development",
+        "hardware"
+      ],
+      "created_at": "2025-01-30",
+      "image": null,
+      "site_description": null,
+      "version": "1.6.3"
+    },
+    {
       "title": "heqing",
       "url": "https://my-note.tocmcc.cn/",
       "tags": [
@@ -110,18 +124,6 @@
       "version": "1.6.3"
     },
     {
-      "title": "Can Can Need Space",
-      "url": "https://note.520217.xyz",
-      "tags": [
-        "chinese",
-        "rubbish"
-      ],
-      "created_at": "2025-09-10",
-      "image": "",
-      "site_description": "",
-      "version": "1.6.3"
-    },
-    {
       "title": "RainbowRain",
       "url": "https://blinko.icerain.love",
       "tags": [
@@ -170,6 +172,18 @@
       "image": "https://blinko.brycewg.xyz/api/s3file/1740532260669(1)_1740761471332.jpg",
       "site_description": "",
       "version": "1.6.3"
+    },
+    {
+      "title": "zhcnxyz",
+      "url": "https://blinko.zhcn.xyz",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-03-03",
+      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
+      "site_description": "",
+      "version": "1.2.1"
     },
     {
       "title": "量元工作室 笔记",
