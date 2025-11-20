@@ -1,6 +1,18 @@
 {
   "sites": [
     {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.6"
+    },
+    {
       "title": "Life Happens",
       "url": "https://blinko.gnezdovi.com",
       "tags": [
@@ -24,6 +36,20 @@
       "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
       "site_description": "",
       "version": "1.1.1"
+    },
+    {
+      "title": "Ivan's Mindspark Archive",
+      "url": "https://blinko.ivanli.cc",
+      "tags": [
+        "chinese",
+        "blog",
+        "development",
+        "hardware"
+      ],
+      "created_at": "2025-01-30",
+      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
+      "site_description": "",
+      "version": "1.6.6"
     },
     {
       "title": "heqing",
@@ -135,18 +161,6 @@
       "version": "1.1.1"
     },
     {
-      "title": "happymove",
-      "url": "https://blinko.happymove.top/share",
-      "tags": [
-        "chinese",
-        "blog"
-      ],
-      "created_at": "2025-08-01",
-      "image": "",
-      "site_description": "",
-      "version": "1.4.3"
-    },
-    {
       "title": "Bryce's Knowledge Space",
       "url": "https://blinko.brycewg.xyz",
       "tags": [
@@ -158,6 +172,18 @@
       "image": "https://blinko.brycewg.xyz/api/s3file/1740532260669(1)_1740761471332.jpg",
       "site_description": "",
       "version": "1.6.3"
+    },
+    {
+      "title": "量元工作室 笔记",
+      "url": "https://note.quanmeta.org",
+      "tags": [
+        "Chinese",
+        "note"
+      ],
+      "created_at": "2025-05-23",
+      "image": "",
+      "site_description": "",
+      "version": "1.6.6"
     },
     {
       "title": "jonnyan404 の blinko",
