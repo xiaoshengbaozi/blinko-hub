@@ -35,8 +35,8 @@
         "hardware"
       ],
       "created_at": "2025-01-30",
-      "image": "https://blinko.ivanli.cc/api/file/avatar_1738484012303.png",
-      "site_description": "",
+      "image": null,
+      "site_description": null,
       "version": "1.8.0"
     },
     {
@@ -99,6 +99,18 @@
       "image": "https://blinko.zverify.cn/api/file/34F306E25C890648A6361B91F297C305_1761783353392.png",
       "site_description": "",
       "version": "1.6.5"
+    },
+    {
+      "title": "王基权",
+      "url": "http://www.fibnci.top:51111/share",
+      "tags": [
+        "english",
+        "blog"
+      ],
+      "created_at": "2025-04-23",
+      "image": "http://www.fibnci.top:51111/api/file/vol1/1000/docker/blinko/data/萨摩耶犬_1745379611420.png",
+      "site_description": "",
+      "version": "1.7.0"
     },
     {
       "title": "洋洋罗小小博客",
@@ -169,8 +181,8 @@
         "blog"
       ],
       "created_at": "2025-03-03",
-      "image": null,
-      "site_description": null,
+      "image": "https://blinko.zhcn.xyz/api/s3file/avatar_1740895462033.png",
+      "site_description": "",
       "version": "1.2.1"
     },
     {
