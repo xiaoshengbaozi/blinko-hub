@@ -134,18 +134,6 @@
       "image": "https://blink.mrdoc.fun/api/file/1000018773_1736606684084.jpg",
       "site_description": "",
       "version": "1.8.4"
-    },
-    {
-      "title": "zller blinko",
-      "url": "https://blinko.zller.cc",
-      "tags": [
-        "chinese",
-        "note"
-      ],
-      "created_at": "2024-10-24",
-      "image": "https://blinko.zller.cc/api/s3file/006_1752399377339.jpg",
-      "site_description": "",
-      "version": "1.1.1"
     }
   ]
 }
