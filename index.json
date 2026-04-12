@@ -22,7 +22,7 @@
       "created_at": "2024-01-14",
       "image": "",
       "site_description": "",
-      "version": "1.8.6"
+      "version": "1.8.7"
     },
     {
       "title": "优秀才能变酷",
@@ -62,6 +62,18 @@
       "image": "https://note.520217.xyz/api/s3file/2025/46547_2_1765680667204.jpg",
       "site_description": "",
       "version": "1.8.6"
+    },
+    {
+      "title": "happymove",
+      "url": "https://blinko.happymove.top/share",
+      "tags": [
+        "chinese",
+        "blog"
+      ],
+      "created_at": "2025-08-01",
+      "image": "",
+      "site_description": "",
+      "version": "1.8.0"
     },
     {
       "title": "jonnyan404 の blinko",
